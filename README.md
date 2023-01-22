@@ -3,7 +3,7 @@
 - 🔭 Sou estagiário de TI
 - 🌱 Hoje meus estudos além da Universidade incluem Python, Laravel, análise de dados e gerenciamento de projetos.
 - 📬 Entre em contato: uedsonmoc@gmail.com
-- 😄 he/his
+- 😄 ele/dele
 
 ##
 

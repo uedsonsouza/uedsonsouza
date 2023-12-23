@@ -1,4 +1,4 @@
-### Olá meu nome é Uedson Gaiek 👋
+### Hello, my name is Uedson Gaiek 👋
 
 - 🔭 I'm a Software Engineer
 - 🌱 I work with web application development using React, Node, Nest, Python and Next.

@@ -1,9 +1,9 @@
 ### Olá meu nome é Uedson Gaiek 👋
 
-- 🔭 Sou estagiário de TI
-- 🌱 Hoje meus estudos além da Universidade incluem Python, Laravel, análise de dados e gerenciamento de projetos.
-- 📬 Entre em contato: uedsonmoc@gmail.com
-- 😄 ele/dele
+- 🔭 I'm a Software Engineer
+- 🌱 I work with web application development using React, Node, Nest, Python and Next.
+- 📬 Get in touch: uedsonmoc@gmail.com
+- 😄 He/His
 
 ##
 
